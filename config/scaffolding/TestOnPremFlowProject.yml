@@ -12,3 +12,8 @@ packages:
   gitUrl: https://github.com/santhu736852
   gitUsername: Pooja-Anand-IBM-2
   gitBranch: main
+- name: OnPremiseISPkg
+  gitServerName: testGit
+  gitUrl: https://github.com/Pooja-Anand-IBM-2
+  gitUsername: Pooja-Anand-IBM-2
+  gitBranch: main
